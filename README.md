@@ -1,1 +1,4 @@
-"# react-native-facebook-login" 
+# This is example.
+
+# Is used
+# react-native-fbsdk v.7
